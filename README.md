@@ -32,6 +32,19 @@ Possuo foco em desenvolver-me no Front-End 💻
  
   <img align="centeer" alt="Acaterine-WP" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
  
+</div><br><br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99874019/193487579-92bf365b-f32a-4f70-8e24-e4ce637e62fc.gif" width="500px" />
 </div>
+
+
+
+
+
+
+
+
+
   
   
